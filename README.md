@@ -1,10 +1,10 @@
 # ipaddr.online
 
 ## Info (Korean)
-공인 ip주소를 출력해주는 웹사이트입니다.
+공인 ip주소를 조회할 수 있는 사이트입니다.
 
 ## Info (English)
-A tiny website that tells your public ip address.
+A website where you can find your public ip address.
 
 [PC ver] https://ipaddr.online <br>
 [Moblie Ver] https://m.ipaddr.online
