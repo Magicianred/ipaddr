@@ -6,7 +6,7 @@
 ## Info (English)
 A tiny website that tells your public ip address.
 
-[PC ver] https://ipaddr.online
+[PC ver] https://ipaddr.online <br>
 [Moblie Ver] https://m.ipaddr.online
 
 ## Screenshot
